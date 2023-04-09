@@ -1,2 +1,4 @@
 # abalone_age_prediction
-2022_응용수학
+
+데이콘 Basic 전복 나이 예측 경진대회
+https://dacon.io/competitions/official/235877/overview/description
